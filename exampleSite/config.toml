@@ -9,11 +9,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
 [params]
-    author = "CowboySmall"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    author = "Alex Abreu"
+    description = "Alex Abreu Resume"
 
 
     primaryColor = "#54B689"
@@ -24,8 +22,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "Simon Doe"
-        tagline = "Senior Software Engineer"
+        name = "Alex Abreu"
+        tagline = "Graphic Designer & Web Developer"
         avatar = "avatar.png"
 
 
@@ -36,7 +34,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "New York"
+        location = "Vancouver, BC"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
@@ -45,11 +43,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
-        text = "simon.doe@yourwebsite.com"
+        text = "alexabreugraphics@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "www.yourwebsite.com"
+        text = "https://alexabreu.netlify.app/"
 
 
 
@@ -171,8 +169,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
-
+        text = "Alex is a highly accomplished Creative Design with two decades of experience in graphic design and web development. Specialise in delivering design solutions to aid businesses in promoting their brand through a variety of mediums to create market presence and communicate to their target audience in a powerful and appropriate manner, develop and hone my skills in all aspects of graphic design from art direction and project management to artworking, design, pre-press, production, video and internet."
 
 
 
