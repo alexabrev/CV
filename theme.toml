@@ -3,19 +3,19 @@
 
 name = "DevResume"
 license = "MIT"
-licenselink = "//github.com/cowboysmall-tools/hugo-devresume-theme/blob/master/LICENSE.md"
+licenselink = "//github.com/alxabrper/CV/blob/master/LICENSE.md"
 description = "DevResume is a free Bootstrap 4 resume/CV template made for software developers."
-homepage = "//github.com/cowboysmall-tools/hugo-devresume-theme"
+homepage = "//alexabreu.netlify.app/"
 tags = ["cv", "resume"]
 features = ["responsive"]
 min_version = "0.41"
 
 [author]
-  name = "Jerry Kiely"
-  homepage = "//github.com/cowboysmall"
+  name = "Alex Abreu"
+  homepage = "//github.com/alxabrper/cowboysmall"
 
 # If porting an existing theme
 [original]
   name = "3rd Wave Media"
-  homepage = "//themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/"
-  repo = "//github.com/xriley/DevResume-Theme"
+  homepage = "//alexabreu.netlify.app/"
+  repo = "//github.com/alxabrper/CV"
